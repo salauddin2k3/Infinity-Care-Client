@@ -20,4 +20,26 @@ Infinity Care is a platform dedicated to connecting volunteers with meaningful o
 - HTML5 & CSS3 for styling
 - Firebase for hosting and backend services
 
+## Installation
+If you want to clone the project and run it locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/salauddin2k3/Infinity-Care-Client.git
+    cd infinity-care-client
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Start the development server:**
+    ```bash
+    npm start
+    ```
+
+4. **Open the application:**
+    - Once the development server is running, open your browser and navigate to `http://localhost:3000` to view the application.
+
 ## Thanks
